@@ -1,0 +1,2 @@
+# NerdTalk
+Algorithms, baby.
