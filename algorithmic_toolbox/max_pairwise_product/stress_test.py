@@ -20,7 +20,7 @@ def simple(a):
 def manual(a):
 	max_index1 = -1
 	for i in range(0, len(a)):
-		if max_index1	 == -1 or a[i] > a[max_index1]:
+		if max_index1 == -1 or a[i] > a[max_index1]:
 			max_index1 = i
 
 	max_index2 = -1
